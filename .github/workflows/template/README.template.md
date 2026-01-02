@@ -1,6 +1,6 @@
 # docker-compose-servarr-with-gluetun
 
-This is a Docker compose stack to deploy Sonarr, Radarr, Prowlarr, flaresolverr, and qBittorrent. With Prowlarr, flaresolverr, and qBittorrent connecting through Gluetun container.
+This is a Docker compose stack to deploy Sonarr, Radarr, Prowlarr, flaresolverr, and qBittorrent, with Prowlarr, flaresolverr, and qBittorrent connecting through Gluetun container.
 
 All apps connect to a shared volume that connects to a NAS SMB share using CIFS.
 

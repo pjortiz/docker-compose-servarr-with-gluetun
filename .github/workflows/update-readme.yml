@@ -6,7 +6,7 @@ on:
       - main
     paths:
       - 'docker-compose.yml'
-      - 'template/README.template.md'
+      - '.github/workflows/template/README.template.md'
 
 jobs:
   update-readme:
@@ -19,7 +19,7 @@ jobs:
       - name: Generate README from template
         run: |
             export DOCKER_COMPOSE=$(cat docker-compose.yml)
-            envsubst < template/README.template.md > README.md
+            envsubst < .github/workflows/template/README.template.md > README.md
 
       - name: Check if there are changes
         id: verify-changed-files

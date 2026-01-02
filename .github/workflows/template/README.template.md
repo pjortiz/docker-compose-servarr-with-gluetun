@@ -8,17 +8,18 @@ All apps connect to a shared volume that connects to a NAS SMB share using CIFS.
 
 ## Sources/Referances
 
-- Servarr Wiki: [https://wiki.servarr.com/](https://wiki.servarr.com/)
 - Gluetun: [https://github.com/qdm12/gluetun](https://github.com/qdm12/gluetun)
   - Gluetun-wiki: [https://github.com/qdm12/gluetun-wiki/tree/main/setup/providers](https://github.com/qdm12/gluetun-wiki/tree/main/setup/providers)
 - qBittorrent: [https://hub.docker.com/r/linuxserver/qbittorrent](https://hub.docker.com/r/linuxserver/qbittorrent)
-- Prowlarr: [https://hub.docker.com/r/linuxserver/prowlarr](https://hub.docker.com/r/linuxserver/prowlarr)
-- Sonarr: [https://hub.docker.com/r/linuxserver/sonarr](https://hub.docker.com/r/linuxserver/sonarr)
-- Radarr: [https://hub.docker.com/r/linuxserver/radarr](https://hub.docker.com/r/linuxserver/radarr)
+  - linuxserver-io-mod-vuetorrent: [https://github.com/arafatamim/linuxserver-io-mod-vuetorrent](https://github.com/arafatamim/linuxserver-io-mod-vuetorrent)
+- Servarr Wiki: [https://wiki.servarr.com/](https://wiki.servarr.com/)
+  - Prowlarr: [https://hub.docker.com/r/linuxserver/prowlarr](https://hub.docker.com/r/linuxserver/prowlarr)
+  - Sonarr: [https://hub.docker.com/r/linuxserver/sonarr](https://hub.docker.com/r/linuxserver/sonarr)
+  - Radarr: [https://hub.docker.com/r/linuxserver/radarr](https://hub.docker.com/r/linuxserver/radarr)
+- flaresolverr: [https://github.com/FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr)
 - Overseerr: [https://hub.docker.com/r/linuxserver/overseerr](https://hub.docker.com/r/linuxserver/overseerr)
 - autoheal: [https://github.com/willfarrell/docker-autoheal](https://github.com/willfarrell/docker-autoheal)
 - docker-autoheal: [https://github.com/willfarrell/docker-autoheal](https://github.com/willfarrell/docker-autoheal)
-- linuxserver-io-mod-vuetorrent: [https://github.com/arafatamim/linuxserver-io-mod-vuetorrent](https://github.com/arafatamim/linuxserver-io-mod-vuetorrent)
 
 ## Setup
 
